@@ -56,7 +56,7 @@ a {
 
 @media (max-width: 500px) {
 	.title {
-		font-size: 8em;
+		font-size: 4em;
 	}
 	
 	.subtitle {
