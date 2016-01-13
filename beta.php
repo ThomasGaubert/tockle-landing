@@ -8,7 +8,7 @@
 		<link rel="shortcut icon" type="image/x-icon" href="res/img/favicon.ico">
 		<link rel="icon" sizes="192x192" href="res/img/icon.png">
 		
-		<title>Tockle</title>
+		<title>Tockle &middot; Beta</title>
 
 		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 
@@ -16,25 +16,23 @@
 		<link href='http://fonts.googleapis.com/css?family=Roboto+Condensed:300' rel='stylesheet' type='text/css'>
 		<link href='http://fonts.googleapis.com/css?family=Lobster' rel='stylesheet' type='text/css'>
 		<link href="res/css/styles.css" rel="stylesheet">
-		<link href="res/css/badge.css" rel="stylesheet">
+		<link href="res/css/styles-beta.css" rel="stylesheet">
 	</head>
 	<body>
 		<div class="content">
 			<div class="content-container">
-				<img class="hero-img" src="res/img/hero-img.png"/>
-			</div>
-			<div class="content-container">
-				<div class="title lobster">Tockle</div>
-				<div class="subtitle">Control your phone from Android Wear.</div>
-				<div class="play-badge">
-					<a href="https://play.google.com/store/apps/details?id=com.texasgamer.tockle">
-						<div id="playlink">&nbsp;</div>
-					</a>
-				</div>
+				<div class="title lobster">Tockle Beta</div>
+				<div class="subtitle">Get early access to updates.</div>
+				<button class="btn" type="button" onclick="location.href='https://plus.google.com/communities/116700521383056703371';">
+					<span>JOIN THE GOOGLE+ COMMUNITY</span>
+				</button>
 			</div>
 		</div>
 		
 		<div class="footer">
+			<div class="footer-text">
+				<a href="." class="lobster">Tockle</span>
+			</div>
 			<div class="footer-links">
 				<a href="beta">Beta</a> &middot; 
 				<a href="+">Tockle+</a> &middot; 
