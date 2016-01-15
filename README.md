@@ -1,6 +1,6 @@
-tockle-landing
-==============
+tockle-web
+===========
 
-Website for Tockle.
+Tockle website.
 
 * http://gaubert.io/projects/tockle
